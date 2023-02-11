@@ -11,11 +11,11 @@ Your job is to write a function which increments a string, to create a new strin
 
 ```foobar23``` -> ```foobar24```
 
-```foo0042``` -> foo0043```
+```foo0042``` -> ```foo0043```
 
-```foo9``` -> foo10```
+```foo9``` -> ```foo10```
 
-```foo099``` -> foo100```
+```foo099``` -> ```foo100```
 
 Attention: If the number has leading zeros the amount of digits should be considered.
 
