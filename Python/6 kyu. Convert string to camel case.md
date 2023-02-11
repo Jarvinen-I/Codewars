@@ -4,9 +4,9 @@ Complete the method/function so that it converts dash/underscore delimited words
 
 ### Examples
 
-```"the-stealth-warrior"``` gets converted to ```"theStealthWarrior"```
-"The_Stealth_Warrior"``` gets converted to ```"TheStealthWarrior"```
-```
+```"the-stealth-warrior"``` gets converted to ```"theStealthWarrior"```  
+```"The_Stealth_Warrior"``` gets converted to ```"TheStealthWarrior"```
+
 
 # Solution
 ```
